@@ -2,6 +2,7 @@
 
 
 Задание:
+
 ![image](https://github.com/escazzz/lab1-2-cpp/assets/112803813/da0fd791-50b1-4f7f-92ed-992c558a0e83)
 
 
